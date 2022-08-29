@@ -1,0 +1,16 @@
+check for (for in loop)
+study getters and setter.
+
+
+assignment:
+create a class (full name and serial number)
+create a class without a constructor with two methods,
+method1 = centigrades
+method2 = farenheight
+
+name of class : temperature
+
+const.temp = new temperature
+temp.centigrade(20);
+temp.farenheight(10);
+
