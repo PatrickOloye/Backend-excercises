@@ -3,7 +3,7 @@
  const array = [2, 3, 4, 7, 5, 7, 2];
  const read = () => {
   // array[array.length - 1]
-    if(array[0] === array[6]){
+    if(array[0] === array[array.length - 1]){
         show.innerHTML = "true"
     } else {
         show.innerHTML = "false"
