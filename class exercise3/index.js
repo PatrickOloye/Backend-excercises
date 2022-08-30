@@ -1,22 +1,3 @@
-/*const array = [2, 3, 4, 7,, 5, 7, 2];
-for(newArr of array){
-    if(newArr[0] === newArr[6]){
-        console.log("true")
-    }
-    console.log("false")
-}*/
-
-/*const array = [2, 3, 4, 7,, 5, 7, 2]
- function cope (array){
-    if (array[0] == array[6]){
-        console.log("true")
-    } else {
-        console.log("false")
-    }
- }
- console.log(cope())*/
-
-
 
  const show = document.querySelector("#ho")
  const array = [2, 3, 4, 7, 5, 7, 2];
@@ -28,6 +9,18 @@ for(newArr of array){
     }
  }
  
-console.log(read())
+//console.log(read())
+
+const numb = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+for(i=0;i<10;i++){
+    console.log(numb[i] + (numb[i]-1))
+}
+
+
+
+
+
+
 
 
