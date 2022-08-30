@@ -2,6 +2,7 @@
  const show = document.querySelector("#ho")
  const array = [2, 3, 4, 7, 5, 7, 2];
  const read = () => {
+  // array[array.length - 1]
     if(array[0] === array[6]){
         show.innerHTML = "true"
     } else {
